@@ -1,0 +1,2 @@
+# PPSSPP_WinXPx64
+PPSSPP_WinXPx64
